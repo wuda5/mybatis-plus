@@ -26,6 +26,7 @@ public class UserMaperTest {
         for (User user : users) {
             System.out.println("++++ start 运行--- test seletct =====");
             System.out.println(user);
+
         }
     }
 
